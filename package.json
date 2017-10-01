@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khiemdc/ReactNYT.git"
+    "url": "git+https://github.com/khiemdc/reactnyt.git"
   },
   "author": "tomtom28",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khiemdc/ReactNYT/issues"
+    "url": "https://github.com/khiemdc/reactnyt/issues"
   },
-  "homepage": "https://github.com/khiemdc/ReactNYT#readme",
+  "homepage": "https://github.com/khiemdc/reactnyt#readme",
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",
